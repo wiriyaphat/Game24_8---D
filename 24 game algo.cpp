@@ -76,6 +76,7 @@ bool permutation (double prob[]) {
 }
 
 int main() {
+    //test case
     double arr1[4] = {2,9,4,3};
 
     cout << permutation(arr1) << endl; // output: 1 (solvable) 
