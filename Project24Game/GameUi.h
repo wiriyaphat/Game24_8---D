@@ -24,7 +24,7 @@ class buttonBuild{
 };
 
 class Title{
-    string Title_string = "Game24";
+    string Title_string = "--Game24--";
     public:
         sf::Text TitleName();
 };
