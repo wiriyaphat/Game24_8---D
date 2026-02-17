@@ -17,7 +17,7 @@ int main()
         .buttonSize_y = 75,
         .shiftX = -110,
         .shiftY = -50,
-        .name = "Game24"
+        .name = "--Game24--"
     };
 
     // buttonN
@@ -67,4 +67,5 @@ int main()
         // end the current frame
         window.display();
     }
+
 }
